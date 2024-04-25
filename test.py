@@ -2,5 +2,5 @@
 
 import sys
 
-
-
+print('je suis une merguez')
+sys.exit()
